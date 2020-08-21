@@ -1,0 +1,30 @@
+{
+  "name": "@wf/eslint",
+  "version": "0.0.1",
+  "description": "万方数据前端团队eslint配置检测规范",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lint",
+    "eslint",
+    "code style"
+  ],
+  "author": "WFFE",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wffe-team/eslint.git"
+  },
+  "peerDependencies": {
+    "eslint": ">=7"
+  },
+  "bugs": {
+    "url": "https://github.com/wffe-team/eslint/issues"
+  },
+  "homepage": "https://github.com/wffe-team/eslint/blob/master/README.md"
+}
